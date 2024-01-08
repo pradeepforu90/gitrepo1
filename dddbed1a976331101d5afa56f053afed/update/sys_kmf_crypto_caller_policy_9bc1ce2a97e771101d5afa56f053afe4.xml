@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="com_snc_core_automation_glideencrypter">bddc8db07722201099808d11681061bc</crypto_module>
+        <crypto_spec display_value="com_snc_core_automation_glideencrypter --- Symmetric Key Wrapping/Unwrapping">71dc8db07722201099808d11681061be</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>4decd9cbdb32bfc0b847ac44d496193b</owner>
+        <policy_name>AutoGen-scope-x_921662_training1-global.com_snc_core_automation_glideencrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 11:48:13</sys_created_on>
+        <sys_id>9bc1ce2a97e771101d5afa56f053afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Training1" source="x_921662_training1">dddbed1a976331101d5afa56f053afed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training1">dddbed1a976331101d5afa56f053afed</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_9bc1ce2a97e771101d5afa56f053afe4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 11:48:13</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Training1">dddbed1a976331101d5afa56f053afed</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>

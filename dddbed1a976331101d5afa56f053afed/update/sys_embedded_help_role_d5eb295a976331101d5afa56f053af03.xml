@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_921662_training1.train" name="x_921662_training1.train">d9ebad96976331101d5afa56f053af2c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-07 15:34:01</sys_created_on>
+        <sys_id>d5eb295a976331101d5afa56f053af03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d9ebad96976331101d5afa56f053af2c</sys_name>
+        <sys_package display_value="Training1" source="x_921662_training1">dddbed1a976331101d5afa56f053afed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training1">dddbed1a976331101d5afa56f053afed</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d5eb295a976331101d5afa56f053af03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 15:34:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
